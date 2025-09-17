@@ -21,12 +21,12 @@ Welcome to my GitHub portfolio. I'm a Senior Security Engineer for both AI, DevS
 
 | Project | Description |
 |--------|-------------|
-| [insider-threat-toolkit](./insider-threat-toolkit) | Tools for Insider Threat, Adversary Simulation |
-| [blue-team-scripts](./blue-team-scripts) | Detection logic, IOC collectors, enrichment scripts |
-| [cloud-security-checks](./cloud-security-checks) | AWS & GCP security misconfiguration checkers |
-| [incident-response-playbooks](./incident-response-playbooks) | Practical IR playbooks and automation scripts |
-| [threat-modeling-examples](./threat-modeling-examples) | Real-world threat models in STRIDE & DREAD |
-| [security-automation-pipeline](./security-automation-pipeline) | CI/CD security gates and tooling (SAST, SCA) |
+| [insider-threat-toolkit](/insider-threat-toolkit) | Tools for Insider Threat, Adversary Simulation |
+| [blue-team-scripts](/blue-team-scripts) | Detection logic, IOC collectors, enrichment scripts |
+| [cloud-security-checks](/cloud-security-checks) | AWS & GCP security misconfiguration checkers |
+| [incident-response-playbooks](/incident-response-playbooks) | Practical IR playbooks and automation scripts |
+| [threat-modeling-examples](/threat-modeling-examples) | Real-world threat models in STRIDE & DREAD |
+| [security-automation-pipeline](/security-automation-pipeline) | CI/CD security gates and tooling (SAST, SCA) |
 
 **Featured:**
 - ✅ [devsecops-portfolio](https://github.com/as70023333/devsecops-portfolio) — SBOMs, signing/attestations, policy-as-code, K8s guardrails.
