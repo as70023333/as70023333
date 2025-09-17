@@ -17,11 +17,11 @@ Welcome to my GitHub portfolio! I'm a Senior Security Engineer for both offensiv
 
 ---
 
-## 🔧 Highlight Projects
+## 🔧 Projects
 
 | Project | Description |
 |--------|-------------|
-| [red-team-toolkit](../red-team-toolkit) | Tools for evasion, persistence, recon, and custom payloads |
+| [red-team-toolkit](../insider-threat-toolkit) | Tools for Insider Threat, Adversary Simulation |
 | [blue-team-scripts](../blue-team-scripts) | Detection logic, IOC collectors, enrichment scripts |
 | [cloud-security-checks](../cloud-security-checks) | AWS & GCP security misconfiguration checkers |
 | [incident-response-playbooks](../incident-response-playbooks) | Practical IR playbooks and automation scripts |
