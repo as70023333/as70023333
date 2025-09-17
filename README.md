@@ -3,7 +3,7 @@
 I **secure** software delivery and AI systems: **DevSecOps, Supply-Chain Security, K8s/Cloud**, plus **AI/ML security** (LLM/RAG hardening, data governance, provenance).
 
 **Featured:**
-- ✅ [devsecops-portfolio](https://github.com/s70023333/devsecops-portfolio) — SBOMs, signing/attestations, policy-as-code, K8s guardrails.
+- ✅ [devsecops-portfolio](https://github.com/as70023333/devsecops-portfolio) — SBOMs, signing/attestations, policy-as-code, K8s guardrails.
 - 🤖 [ai-security-portfolio](https://github.com/s70023333/ai-security-portfolio) — LLM/RAG hardening, prompt-injection defenses, eval/red-team harness.
 - 📊 [ml-data-portfolio](https://github.com/s70023333/ml-data-portfolio) — Reproducible pipelines (DVC), data quality (Great Expectations), model cards & provenance.
 
