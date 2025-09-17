@@ -6,13 +6,14 @@ Welcome to my GitHub portfolio! I'm a Senior Security Engineer for both offensiv
 
 ## 🔍 Areas of Expertise
 
-- 🕷️ Red Teaming, Adversary Simulation
+
 - 🛡️ Threat Detection & Blue Team Automation
 - ☁️ Cloud Security (AWS, GCP, Azure)
 - 🔄 DevSecOps & CI/CD Hardening
 - 📉 Threat Modeling (STRIDE, DREAD, PASTA)
 - 🔥 Incident Response & Memory Forensics
 - 🧪 Vulnerability Discovery & CVE Analysis
+- 🕷️ NEW! Insider Threat, Adversary Simulation, Honeypot, AD Decoy
 
 ---
 
