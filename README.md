@@ -1,6 +1,6 @@
 # 🛡️ Senior Security Engineer – @as70023333
 
-Welcome to my GitHub portfolio! I'm a Senior Security Engineer for both offensive and defensive security. I build tools, automate defenses, and dive deep into vulnerability research. 
+Welcome to my GitHub portfolio. I'm a Senior Security Engineer for both AI, DevSecOps, and defensive security. I build tools, automate defenses, and dive deep into vulnerability research. 
 
 ---
 
