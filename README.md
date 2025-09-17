@@ -28,6 +28,10 @@ Welcome to my GitHub portfolio! I'm a Senior Security Engineer for both offensiv
 | [threat-modeling-examples](../threat-modeling-examples) | Real-world threat models in STRIDE & DREAD |
 | [security-automation-pipeline](../security-automation-pipeline) | CI/CD security gates and tooling (SAST, SCA) |
 
+**Featured:**
+- ✅ [devsecops-portfolio](https://github.com/as70023333/devsecops-portfolio) — SBOMs, signing/attestations, policy-as-code, K8s guardrails.
+- 🤖 [ai-security-portfolio](https://github.com/as70023333/ai-security-portfolio) — LLM/RAG hardening, prompt-injection defenses, eval/red-team harness.
+- 📊 [ml-data-portfolio](https://github.com/s70023333/ml-data-portfolio) — Reproducible pipelines (DVC), data quality (Great Expectations), model cards & provenance.
 ---
 
 ## 📚 Research, Blogs & Talks
@@ -46,12 +50,6 @@ My public GPG key can be found [here](./gpg-key.asc)
 ### 🔗 Let's Connect
 
 Feel free to reach out, contribute, or fork anything useful. Security is a team sport – let’s build a safer internet, one repo at a time. 💻🔐
-
-
-**Featured:**
-- ✅ [devsecops-portfolio](https://github.com/as70023333/devsecops-portfolio) — SBOMs, signing/attestations, policy-as-code, K8s guardrails.
-- 🤖 [ai-security-portfolio](https://github.com/as70023333/ai-security-portfolio) — LLM/RAG hardening, prompt-injection defenses, eval/red-team harness.
-- 📊 [ml-data-portfolio](https://github.com/s70023333/ml-data-portfolio) — Reproducible pipelines (DVC), data quality (Great Expectations), model cards & provenance.
 
 > Hiring? Start with **devsecops-portfolio** → demonstrates practical, enforceable security gates that teams actually adopt.
 
