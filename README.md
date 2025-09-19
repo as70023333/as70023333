@@ -42,7 +42,7 @@ This portfolio highlights my public work, tools, and research.
 ---
 
 ## 🔐 GPG Key
-My public GPG key can be found [here](./gpg-key.asc)
+My public GPG key can be found [here](https://github.com/as70023333/awesome-security-engineer/blob/main/gpg-key.asc)
 
 ---
 
