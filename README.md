@@ -1,20 +1,19 @@
-# 🛡️ Senior Security Engineer – @as70023333
+#  Security Engineer – @as70023333
 
-Welcome to my GitHub portfolio!  
-I’m a Senior Security Engineer with deep experience in **offensive & defensive security**, **DevSecOps**, and emerging fields like **AI security** and **ML reproducibility**.  
+I’m a Security Engineer with deep experience in **offensive & defensive security**, **DevSecOps**, and emerging fields like **AI security** and **ML reproducibility**.  
 This portfolio highlights my public work, tools, and research.
 
 ---
 
-## 🔍 Core Expertise
-- 🕵️ Insider Threat Simulation & Detection
-- 🛡️ Blue Team Automation, Detection Engineering
-- ☁️ Cloud Security (AWS, GCP, Azure)
-- 🔄 DevSecOps & CI/CD Hardening
-- 📉 Threat Modeling (STRIDE, DREAD, PASTA)
-- 🔥 Incident Response & Memory Forensics
-- 🤖 AI/LLM Security, Prompt Injection Defense
-- 📊 ML Data Security, Provenance, & Transparency
+## Core Expertise
+- Insider Threat Simulation & Detection
+- Blue Team Automation, Detection Engineering
+- Cloud Security (AWS, GCP, Azure)
+- DevSecOps & CI/CD Hardening
+- Threat Modeling (STRIDE, DREAD, PASTA)
+- Incident Response & Memory Forensics
+- AI/LLM Security, Prompt Injection Defense
+- ML Data Security, Provenance, & Transparency
 
 ---
 
@@ -35,18 +34,18 @@ This portfolio highlights my public work, tools, and research.
 ---
 
 ## 📚 Research, Blogs & Talks
-- Coming Soon: 🧠 Blog Series on Building a Detection Engineering Pipeline
+- Coming Soon:  Building a Detection Engineering Pipeline
 - LinkedIn: [linkedin.com/in/as70023333](https://www.linkedin.com/in/as70023333)
 - GitHub: [github.com/as70023333](https://github.com/as70023333)
 
 ---
 
-## 🔐 GPG Key
+## GPG Key
 My public GPG key can be found [here](https://github.com/as70023333/awesome-security-engineer/blob/main/gpg-key.asc)
 
 ---
 
-### 🤝 Let’s Connect
+###  Connect
 Security is a team sport – feel free to fork, star ⭐, or contribute.  
-Together, let’s build a safer internet. 🔐🌍
+
 
