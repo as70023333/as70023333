@@ -21,6 +21,7 @@ This portfolio highlights my public work, tools, and research.
 
 | Project | Description |
 |--------|-------------|
+| [adversarial-document-attack](https://github.com/as70023333/adversarial-document-attack) | Adversarial attacks on NLP models used in real estate document processing |
 | [insider-threat-toolkit](https://github.com/as70023333/insider-threat-toolkit) | Simulation and detection of insider threats including privilege abuse, lateral movement, and data exfiltration |
 | [blue-team-scripts](https://github.com/as70023333/blue-team-scripts) | Detection logic, IOC collectors, enrichment scripts |
 | [cloud-security-checks](https://github.com/as70023333/cloud-security-checks) | AWS & GCP security misconfiguration checkers |
