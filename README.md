@@ -33,10 +33,10 @@ This portfolio highlights my public work, tools, and research.
 
 ---
 
-## 📚 Research, Blogs & Talks
+## Research, Blogs & Talks
 - Coming Soon:  Building a Detection Engineering Pipeline
-- LinkedIn: [linkedin.com/in/as70023333](https://www.linkedin.com/in/as70023333)
-- GitHub: [github.com/as70023333](https://github.com/as70023333)
+- LinkedIn: Yes
+- GitHub: You are here
 
 ---
 
@@ -46,6 +46,6 @@ My public GPG key can be found [here](https://github.com/as70023333/awesome-secu
 ---
 
 ###  Connect
-Security is a team sport – feel free to fork, star ⭐, or contribute.  
+Security is a team sport – feel free to fork, star, or contribute.  
 
 
