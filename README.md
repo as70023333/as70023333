@@ -22,6 +22,7 @@ This portfolio highlights my public work, tools, and research.
 | Project | Description |
 |--------|-------------|
 | [SentinelWork](https://github.com/as70023333/SentinelWork) | Sentinel Workbooks |
+| [Deepfake-Detection](https://github.com/as70023333/SentinelWork) | Sentinel Workbooks |
 | [adversarial-document-attack](https://github.com/as70023333/adversarial-document-attack) | Adversarial attacks on NLP models used in real estate document processing |
 | [insider-threat-toolkit](https://github.com/as70023333/insider-threat-toolkit) | Simulation and detection of insider threats including privilege abuse, lateral movement, and data exfiltration |
 | [blue-team-scripts](https://github.com/as70023333/blue-team-scripts) | Detection logic, IOC collectors, enrichment scripts |
@@ -33,7 +34,7 @@ This portfolio highlights my public work, tools, and research.
 | [ai-security-portfolio](https://github.com/as70023333/ai-security-portfolio) | Prompt-injection defenses, eval harnesses, and secure deployment of LLMs |
 | [ml-data-portfolio](https://github.com/as70023333/ml-data-portfolio) | Reproducible data pipelines, model transparency, and data quality testing |
 
-https://github.com/as70023333/SentinelWork
+
 
 ---
 
