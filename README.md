@@ -22,7 +22,7 @@ This portfolio highlights my public work, tools, and research.
 | Project | Description |
 |--------|-------------|
 | [SentinelWork](https://github.com/as70023333/SentinelWork) | Sentinel Workbooks |
-| [Deepfake-Detection](https://github.com/as70023333/SentinelWork) | Sentinel Workbooks |
+| [Deepfake-Detection](https://github.com/as70023333/deepfake-detection) | Application that uses xAI's Grok Vision (via the xAI API) to detect potential deepfake manipulation |
 | [adversarial-document-attack](https://github.com/as70023333/adversarial-document-attack) | Adversarial attacks on NLP models used in real estate document processing |
 | [insider-threat-toolkit](https://github.com/as70023333/insider-threat-toolkit) | Simulation and detection of insider threats including privilege abuse, lateral movement, and data exfiltration |
 | [blue-team-scripts](https://github.com/as70023333/blue-team-scripts) | Detection logic, IOC collectors, enrichment scripts |
