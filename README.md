@@ -1,4 +1,4 @@
-#  Senior Security Engineer → Security Architecture | Cloud Security | Security Platform Governance | Security FinOps | AWS & Azure – @as70023333
+#  Senior Security Engineer → AI Cloud Security | Security Platform Governance | Security FinOps  – @as70023333
 
 I’m a Security Engineer with deep experience in **offensive & defensive security**, **DevSecOps**, and emerging fields like **AI security** and **ML reproducibility**.  
 This portfolio highlights my public work, tools, and research.
