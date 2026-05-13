@@ -58,7 +58,7 @@
 |---------|-------------|--------|
 | [`certification_prep`](./certification_prep) | CCSP/Azure study guides (ADHD/Dyslexia friendly) | ✅ Public |
 | [`whitepapers-talks-presentations`](./whitepapers-talks-presentations) | Conference talks, blogs, and research papers | ✅ Public |
-
+[![Last Updated](https://img.shields.io/github/last-commit/as70023333/as70023333?label=Updated&logo=github)](https://github.com/as70023333/as70023333/commits/main)
 ---
 
 ## 🛠️ Tech Stack Highlights
@@ -78,4 +78,4 @@ Security: SAST/SCA • WAF • KMS • IAM • Zero Trust Patterns
 
 > 🌟 **Star this repo** if you find it useful — it helps others discover accessible security content!
 
-[![Last Updated](https://img.shields.io/github/last-commit/as70023333/as70023333?label=Updated&logo=github)](https://github.com/as70023333/as70023333/commits/main)
+
