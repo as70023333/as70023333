@@ -1,4 +1,4 @@
-# 👋 Welcome to My Security Engineering Portfolio
+# Welcome to My Security Engineering Portfolio
 
 > 🎯 **Focus**: Cloud Security Platform Engineering • Security Automation • AI/ML Security Operations  
 > 💼 **Consulting**: [Blackline Security Advisory](https://blacklinesecurity.advisory) *(add link when live)*  
