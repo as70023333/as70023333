@@ -1,7 +1,7 @@
 # Welcome to My Security Engineering Portfolio
 
 > 🎯 **Focus**: Cloud Security Platform Engineering • Security Automation • AI/ML Security Operations  
-> 💼 **Consulting**: [Blackline Security Advisory](https://blacklinesecurity.advisory) *(add link when live)*  
+> 💼 **Consulting**: [Blackline Security Advisory](https://blacklinesecurity.advisory) 
 > 🧠 **Learning**: ADHD/Dyslexia-friendly CCSP & Azure study guides below  
 
 [![CCSP Study](https://img.shields.io/badge/CCSP-Study%20Guide-blue?style=for-the-badge)](./certification_prep)
