@@ -47,6 +47,14 @@
 | [`whitepapers-talks-presentations`](./whitepapers-talks-presentations) | Conference talks, blogs, and research papers | ✅ Public |
 
 ---
+## 🛠️ Tech Stack Highlights
+Languages: Python, Bash, PowerShell, Go
+Cloud: AWS, Azure, GCP
+IaC: Terraform, CloudFormation
+Automation: Ansible, GitHub Actions, SOAR APIs
+AI/ML: LangChain, OpenAI/xAI APIs, LLM Security Frameworks
+Security: SAST/SCA, WAF, KMS, IAM, Zero Trust Patterns
+
 
 ## ♿ Accessibility Commitment
 
