@@ -64,6 +64,6 @@ All study materials and documentation follow neurodivergent-friendly practices:
 
 - 💼 **Consulting**: [Blackline Security Advisory](#) *(coming soon)*
 - 💬 **Discussions**: Use GitHub Discussions for technical questions
-- 🐦 **Twitter/LinkedIn**: [@YourHandle](#) *(add when ready)*
+-  **Mastodon**: [https://mastodon.seattlematrix.org/@as7002333]
 
 > 🌟 **Star this repo** if you find it useful — it helps others discover accessible security content!
