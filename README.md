@@ -77,3 +77,5 @@ Security: SAST/SCA • WAF • KMS • IAM • Zero Trust Patterns
 -  **Mastodon**: [https://mastodon.seattlematrix.org/@as7002333]
 
 > 🌟 **Star this repo** if you find it useful — it helps others discover accessible security content!
+
+[![Last Updated](https://img.shields.io/github/last-commit/as70023333/as70023333?label=Updated&logo=github)](https://github.com/as70023333/as70023333/commits/main)
