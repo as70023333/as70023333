@@ -78,7 +78,7 @@ Security: SAST/SCA • WAF • KMS • IAM • Zero Trust Patterns
 
 > 🌟 **Star this repo** if you find it useful — it helps others discover accessible security content!
 
-♿ #-accessibility-commitment
+♿ Accessibility Commitment
 All study materials and documentation follow neurodivergent-friendly practices:
 ✅ Chunked content — Sections under 300 words, clear headings
 ✅ Plain language first — Technical terms defined on first use
