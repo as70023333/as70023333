@@ -63,7 +63,7 @@
 ### 📚 Learning & Certification Prep
 | Project | Description | Status |
 |---------|-------------|--------|
-| [`certification_prep`](./certification_prep) | CCSP/Azure study guides (ADHD/Dyslexia friendly) | ✅ Public |
+| [`certification_prep`]([./certification) | CCSP/Azure study guides (ADHD/Dyslexia friendly) | ✅ Public |
 | [`whitepapers-talks-presentations`](./whitepapers-talks-presentations) | Conference talks, blogs, and research papers | ✅ Public |
 [![Last Updated](https://img.shields.io/github/last-commit/as70023333/as70023333?label=Updated&logo=github)](https://github.com/as70023333/as70023333/commits/main)
 ---
