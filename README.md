@@ -49,7 +49,7 @@
 ### 🔄 Security Automation & DevSecOps
 | Project | Description | Status |
 |---------|-------------|--------|
-| [`devsecops-micro-project`](https://github.com/as70023333/certification_prep/wiki/The-20%E2%80%90Minute-DevSecOps-Micro%E2%80%90Project:-Building-a-GitHub-Security-Scanner) | DevSecOps Micro Project | Build a Scanner | ✅ Public |
+| [`devsecops-micro-project`](https://github.com/as70023333/certification_prep/wiki/The-20%E2%80%90Minute-DevSecOps-Micro%E2%80%90Project:-Building-a-GitHub-Security-Scanner) | DevSecOps Micro Project Build a Scanner | ✅ Public |
 | [`security-automation-lab`](./security-automation-lab) | Terraform, Python, and SOAR playbooks for cloud | ✅ Public |
 | [`security-automation-pipeline`](./security-automation-pipeline) | CI/CD security gates: SAST, SCA, secret scanning | ✅ Public |
 | [`devsecops-portfolio`](./devsecops-portfolio) | DevSecOps patterns and pipeline templates | ✅ Public |
