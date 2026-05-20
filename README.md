@@ -15,7 +15,7 @@
 ## 🚀 Start Here (First-Time Visitors)
 
 1. **New to my work?** → Browse [`awesome-security-engineer`](https://github.com/as70023333/awesome-security-engineer) for the full portfolio map
-2. **Studying for CCSP?** → Jump to [`certification_prep`](./certification_prep) for ADHD-friendly guides
+2. **Studying for a certification?** → Jump to [`certification_prep`](https://github.com/as70023333/certification_prep/wiki/Home-%E2%80%90-%F0%9F%8E%93-certification_prep) for ADHD-friendly guides
 3. **Looking for automation code?** → Explore [`security-automation-lab`](./security-automation-lab)
 4. **Recruiter/Client?** → See pinned repos below + [`cloud-security-optimization`](./cloud-security-optimization) for consulting examples
 
