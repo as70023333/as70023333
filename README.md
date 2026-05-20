@@ -4,7 +4,7 @@
 > 💼 **Consulting**: [Blackline Security Advisory](#) *(coming soon)*  
 > 🧠 **Learning**: ADHD/Dyslexia-friendly CCSP & Azure study guides below  
 
-[![CCSP Study](https://img.shields.io/badge/📚-CCSP%20Prep-blue?style=for-the-badge)](./certification_prep)
+[![CCSP Study](https://img.shields.io/badge/📚-CCSP%20Prep-blue?style=for-the-badge)](https://github.com/as70023333/certification_prep/wiki/CCSP)
 [![Cloud Security](https://img.shields.io/badge/☁️-Cloud%20Security-orange?style=for-the-badge)](./cloud-security-optimization)
 [![AI Security](https://img.shields.io/badge/🤖-AI%20Security-purple?style=for-the-badge)](./ai-security-operations-copilot)
 [![Automation](https://img.shields.io/badge/🔄-Security%20Automation-green?style=for-the-badge)](./security-automation-lab)
