@@ -49,6 +49,7 @@
 ### 🔄 Security Automation & DevSecOps
 | Project | Description | Status |
 |---------|-------------|--------|
+| [`devsecops-portfolio`](./devsecops-portfolio) | Quick Wins - DevSecOps Bytes | ✅ Public |
 | [`security-automation-lab`](./security-automation-lab) | Terraform, Python, and SOAR playbooks for cloud | ✅ Public |
 | [`security-automation-pipeline`](./security-automation-pipeline) | CI/CD security gates: SAST, SCA, secret scanning | ✅ Public |
 | [`devsecops-portfolio`](./devsecops-portfolio) | DevSecOps patterns and pipeline templates | ✅ Public |
