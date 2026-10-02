@@ -16,7 +16,7 @@
 
 1. **New to my work?** → Browse [`awesome-security-engineer`](https://github.com/as70023333/awesome-security-engineer#awesome-security-engineer) for the full portfolio map
 2. **Studying for a certification?** → Jump to [`certification_prep`](https://github.com/as70023333/certification_prep/wiki/Home-%E2%80%90-%F0%9F%8E%93-certification_prep) for ADHD-friendly guides
-3. **Looking for automation code?** → Explore [`security-automation-lab`](https://github.com/as70023333/security-automation-lab#security-automation-lab) and the new [`soc-toolkit`](https://github.com/as70023333/soc-toolkit#soc-toolkit) (run any tool offline with `--demo`)
+3. **Looking for automation code?** → Explore [`security-automation-lab`](https://github.com/as70023333/security-automation-lab#%EF%B8%8F-modern-security-automation-lab) and the new [`soc-toolkit`](https://github.com/as70023333/soc-toolkit#soc-toolkit) (run any tool offline with `--demo`)
 4. **Recruiter/Client?** → See pinned repos below + [`cloud-security-optimization`](https://github.com/as70023333/cloud-security-optimization#cloud-security-optimization) for consulting examples
 
 > 💡 **Pro Tip**: Press `t` on any GitHub repo page to fuzzy-search files instantly.
@@ -51,7 +51,7 @@
 | Project | Description | Status |
 |---------|-------------|--------|
 | [`devsecops-micro-project`](https://github.com/as70023333/certification_prep/wiki/The-20%E2%80%90Minute-DevSecOps-Micro%E2%80%90Project:-Building-a-GitHub-Security-Scanner) | DevSecOps Micro Project Build a Scanner | ✅ Public |
-| [`security-automation-lab`](https://github.com/as70023333/security-automation-lab) | Wazuh SIEM + Shuffle SOAR lab on DigitalOcean (Ubuntu): detection-to-response pipeline, health commands and roadmap. In progress | ✅ Public |
+| [`security-automation-lab`](https://github.com/as70023333/security-automation-lab#%EF%B8%8F-modern-security-automation-lab) | Wazuh SIEM + Shuffle SOAR lab on DigitalOcean (Ubuntu): detection-to-response pipeline, health commands and roadmap. In progress | ✅ Public |
 | [`security-automation-pipeline`](./security-automation-pipeline) | CI/CD security gates: SAST, SCA, secret scanning | ✅ Public |
 | [`devsecops-portfolio`](./devsecops-portfolio) | DevSecOps patterns and pipeline templates | ✅ Public |
 
