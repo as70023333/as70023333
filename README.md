@@ -31,7 +31,6 @@
 | [`cloud-security-optimization`](./cloud-security-optimization) | Reduce bloated security stacks; AWS/Azure/GCP optimization | ✅ Public |
 | [`cloud-security-checks`](./cloud-security-checks) | Automated misconfiguration scanners for AWS & GCP | ✅ Public |
 | [`soc-toolkit`](https://github.com/as70023333/soc-toolkit) | Small, sharp tools for a Microsoft security operations center | ✅ Public |
-https://github.com/as70023333/soc-toolkit/blob/main/README.md
 | `SentinelWork` 🔒 | Azure Sentinel workbooks & detection rules | 🔒 Private |
 
 ### 🤖 AI & ML Security Operations
@@ -68,7 +67,6 @@ https://github.com/as70023333/soc-toolkit/blob/main/README.md
 | Project | Description | Status |
 |---------|-------------|--------|
 | [`certification_prep`]([./certification) | CCSP/Azure study guides (ADHD/Dyslexia friendly) | ✅ Public |
-| [`whitepapers-talks-presentations`](./whitepapers-talks-presentations) | Conference talks, blogs, and research papers | ✅ Public |
 [![Last Updated](https://img.shields.io/github/last-commit/as70023333/as70023333?label=Updated&logo=github)](https://github.com/as70023333/as70023333/commits/main)
 ---
 
