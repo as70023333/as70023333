@@ -23,22 +23,22 @@
 
 ---
 
-## 🗂️ Browse by Focus Area
+## Browse by Focus Area
 
 ### ☁️ Cloud Security Platform Engineering
 | Project | Description | Status |
 |---------|-------------|--------|
-| [`cloud-security-optimization`](https://github.com/as70023333/cloud-security-optimization#cloud-security-optimization#cloud-security-optimization#cloud-security-optimization) | 🆕 `secopt`: find what a security stack costs, what is unused and what overlaps. Microsoft Sentinel cost review (cheapest pricing plan, tables no detection reads), unused Microsoft 365 licences, security tool overlap and gaps. Read-only; runs offline with `--demo` | ✅ Public |
+| [`cloud-security-optimization`](https://github.com/as70023333/cloud-security-optimization#cloud-security-optimization#cloud-security-optimization#cloud-security-optimization) | 🆕 `secopt`: find what a security stack costs, what is unused and what overlaps. Microsoft Sentinel cost review (cheapest pricing plan, tables no detection reads), unused Microsoft 365 licences, security tool overlap and gaps. Read-only; runs offline with `--demo` | Public |
 | [`cloud-security-checks`](https://github.com/as70023333/cloud-security-checks#cloud-security-checks) | 🆕 Read-only misconfiguration scanners for AWS, Azure & Google Cloud: 54 checks, no SDKs, no dependencies; runs offline with `--demo` | ✅ Public |
 | [`soc-toolkit`](https://github.com/as70023333/soc-toolkit#soc-toolkit#soc-toolkit#soc-toolkit) | Small, sharp tools for a Microsoft security operations center | ✅ Public |
-| [`microsoft-sentinel`](https://github.com/as70023333/SentinelWork/tree/main/Microsoft_Sentinel#microsoft-sentinel) 🔒 | microsoft-sentinel workbooks & detection rules | 🔒 Private |
+| [`microsoft-sentinel`](https://github.com/as70023333/SentinelWork/tree/main/Microsoft_Sentinel#microsoft-sentinel)  | microsoft-sentinel workbooks & detection rules |  🆕 New |
 
 ### 🤖 AI & ML Security Operations
 | Project | Description | Status |
 |---------|-------------|--------|
 | [`ai-security-operations-copilot`](./ai-security-operations-copilot) | LLM security, prompt injection defense, SOC automation | ✅ Public |
 | [`adversarial-document-attack`](./adversarial-document-attack) | Research on document-based adversarial ML attacks | ✅ Public |
-| `deepfake-detection` 🔒 | xAI Grok Vision integration for deepfake analysis | 🔒 Private |
+| `deepfake-detection`  | xAI Grok Vision integration for deepfake analysis |  Private |
 
 ### 🤖 AI & ML Agents/Skills/Games
 | Project | Description | Status |
