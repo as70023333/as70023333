@@ -45,7 +45,6 @@
 |---------|-------------|--------|
 | [`fps-arena`](./fps-arena) | Games co-created in 10 minutes with my agent | ✅ Public |
 | [`adversarial-document-attack`](./adversarial-document-attack) |  | ✅ Public |
-| `deepfake-detection` 🔒 | xAI Grok Vision integration for deepfake analysis | 🔒 Private |
 
 ### 🔄 Security Automation & DevSecOps
 | Project | Description | Status |
