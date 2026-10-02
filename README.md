@@ -31,7 +31,7 @@
 | [`cloud-security-optimization`](https://github.com/as70023333/cloud-security-optimization#cloud-security-optimization#cloud-security-optimization#cloud-security-optimization) | 🆕 `secopt`: find what a security stack costs, what is unused and what overlaps. Microsoft Sentinel cost review (cheapest pricing plan, tables no detection reads), unused Microsoft 365 licences, security tool overlap and gaps. Read-only; runs offline with `--demo` | ✅ Public |
 | [`cloud-security-checks`](https://github.com/as70023333/cloud-security-checks#cloud-security-checks) | 🆕 Read-only misconfiguration scanners for AWS, Azure & Google Cloud: 54 checks, no SDKs, no dependencies; runs offline with `--demo` | ✅ Public |
 | [`soc-toolkit`](https://github.com/as70023333/soc-toolkit#soc-toolkit#soc-toolkit#soc-toolkit) | Small, sharp tools for a Microsoft security operations center | ✅ Public |
-| [`SentinelWork`](https://github.com/as70023333/SentinelWork/tree/main/Microsoft_Sentinel#microsoft-sentinel) 🔒 | Azure Sentinel workbooks & detection rules | 🔒 Private |
+| [`microsoft-sentinel`](https://github.com/as70023333/SentinelWork/tree/main/Microsoft_Sentinel#microsoft-sentinel) 🔒 | microsoft-sentinel workbooks & detection rules | 🔒 Private |
 
 ### 🤖 AI & ML Security Operations
 | Project | Description | Status |
