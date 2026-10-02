@@ -87,7 +87,7 @@ Security: SAST/SCA • WAF • KMS • IAM • Zero Trust Patterns
 
 > 🌟 **Star this repo** if you find it useful — it helps others discover accessible security content!
 
-♿ Accessibility Commitment
+♿ Accessibility Commitment ( why the emojes 
 All study materials and documentation follow neurodivergent-friendly practices:
 ✅ Chunked content — Sections under 300 words, clear headings
 ✅ Plain language first — Technical terms defined on first use
@@ -95,4 +95,4 @@ All study materials and documentation follow neurodivergent-friendly practices:
 ✅ Screen-reader compatible — Semantic Markdown, alt-text for images
 ✅ Focus-friendly — Minimal distractions, logical progression
 ✅ Movement reminders — Study loops include break prompts
-Have feedback? Open an issue or start a Discussion — I'm always learning. 🙏
+Have feedback? Open an issue or start a Discussion — I'm always learning. 
