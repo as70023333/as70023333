@@ -14,10 +14,10 @@
 
 ##  Start Here (First-Time Visitors)
 
-1. **New to my work?** → Browse [`awesome-security-engineer`](https://github.com/as70023333/awesome-security-engineer) for the full portfolio map
+1. **New to my work?** → Browse [`awesome-security-engineer`](https://github.com/as70023333/awesome-security-engineer#awesome-security-engineer) for the full portfolio map
 2. **Studying for a certification?** → Jump to [`certification_prep`](https://github.com/as70023333/certification_prep/wiki/Home-%E2%80%90-%F0%9F%8E%93-certification_prep) for ADHD-friendly guides
-3. **Looking for automation code?** → Explore [`security-automation-lab`](https://github.com/as70023333/security-automation-lab) and the new [`soc-toolkit`](https://github.com/as70023333/soc-toolkit) (run any tool offline with `--demo`)
-4. **Recruiter/Client?** → See pinned repos below + [`cloud-security-optimization`](https://github.com/as70023333/cloud-security-optimization) for consulting examples
+3. **Looking for automation code?** → Explore [`security-automation-lab`](https://github.com/as70023333/security-automation-lab#security-automation-lab) and the new [`soc-toolkit`](https://github.com/as70023333/soc-toolkit#soc-toolkit) (run any tool offline with `--demo`)
+4. **Recruiter/Client?** → See pinned repos below + [`cloud-security-optimization`](https://github.com/as70023333/cloud-security-optimization#cloud-security-optimization) for consulting examples
 
 > 💡 **Pro Tip**: Press `t` on any GitHub repo page to fuzzy-search files instantly.
 
@@ -28,9 +28,9 @@
 ### ☁️ Cloud Security Platform Engineering
 | Project | Description | Status |
 |---------|-------------|--------|
-| [`cloud-security-optimization`](https://github.com/as70023333/cloud-security-optimization#cloud-security-optimization) | 🆕 `secopt`: find what a security stack costs, what is unused and what overlaps. Microsoft Sentinel cost review (cheapest pricing plan, tables no detection reads), unused Microsoft 365 licences, security tool overlap and gaps. Read-only; runs offline with `--demo` | ✅ Public |
+| [`cloud-security-optimization`](https://github.com/as70023333/cloud-security-optimization#cloud-security-optimization#cloud-security-optimization#cloud-security-optimization) | 🆕 `secopt`: find what a security stack costs, what is unused and what overlaps. Microsoft Sentinel cost review (cheapest pricing plan, tables no detection reads), unused Microsoft 365 licences, security tool overlap and gaps. Read-only; runs offline with `--demo` | ✅ Public |
 | [`cloud-security-checks`](https://github.com/as70023333/cloud-security-checks#cloud-security-checks) | 🆕 Read-only misconfiguration scanners for AWS, Azure & Google Cloud: 54 checks, no SDKs, no dependencies; runs offline with `--demo` | ✅ Public |
-| [`soc-toolkit`](https://github.com/as70023333/soc-toolkit#soc-toolkit) | Small, sharp tools for a Microsoft security operations center | ✅ Public |
+| [`soc-toolkit`](https://github.com/as70023333/soc-toolkit#soc-toolkit#soc-toolkit#soc-toolkit) | Small, sharp tools for a Microsoft security operations center | ✅ Public |
 | `SentinelWork` 🔒 | Azure Sentinel workbooks & detection rules | 🔒 Private |
 
 ### 🤖 AI & ML Security Operations
