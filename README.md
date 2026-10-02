@@ -1,6 +1,6 @@
 # Welcome to My Security Engineering Portfolio
 
-> 🎯 **Focus**: DevSecOps | Security | Platform Engineering • Security Automation • AI/ML Security Operations  
+> 🎯 **Focus**: DevSecOps | Security Operations | Platform Engineering • Security Automation • AI/ML Security | SRE  
 > 💼 **Consulting**: [Blackline Security Advisory](#) *(coming soon)*  
 > 🧠 **Learning**: ADHD/Dyslexia-friendly CCSP & Azure study guides below  
 
