@@ -52,6 +52,7 @@
 |---------|-------------|--------|
 | [`devsecops-micro-project`](https://github.com/as70023333/certification_prep/wiki/The-20%E2%80%90Minute-DevSecOps-Micro%E2%80%90Project:-Building-a-GitHub-Security-Scanner) | DevSecOps Micro Project Build a Scanner | ✅ Public |
 | [`security-automation-lab`](https://github.com/as70023333/security-automation-lab#%EF%B8%8F-modern-security-automation-lab) | Wazuh SIEM + Shuffle SOAR lab on DigitalOcean (Ubuntu): detection-to-response pipeline, health commands and roadmap. In progress | ✅ Public |
+| [`vulnerability-remediation-automation`](https://github.com/as70023333/vulnerability-remediation-automation) | 🆕 `vulnrem`: turns a vulnerability scan (Microsoft Defender or any scanner's CSV) into a short plan. Priorities from CISA's exploited list and EPSS, an owner and deadline per action, ticket drafts, progress between runs. Read-only; runs offline with `--demo` | ✅ Public |
 | [`security-automation-pipeline`](./security-automation-pipeline) | CI/CD security gates: SAST, SCA, secret scanning | ✅ Public |
 | [`devsecops-portfolio`](./devsecops-portfolio) | DevSecOps patterns and pipeline templates | ✅ Public |
 
