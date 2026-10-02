@@ -16,7 +16,7 @@
 
 1. **New to my work?** → Browse [`awesome-security-engineer`](https://github.com/as70023333/awesome-security-engineer) for the full portfolio map
 2. **Studying for a certification?** → Jump to [`certification_prep`](https://github.com/as70023333/certification_prep/wiki/Home-%E2%80%90-%F0%9F%8E%93-certification_prep) for ADHD-friendly guides
-3. **Looking for automation code?** → Explore [`security-automation-lab`](./security-automation-lab)
+3. **Looking for automation code?** → Explore [`security-automation-lab`](./security-automation-lab) and the new [`soc-toolkit`](https://github.com/as70023333/soc-toolkit) (run any tool offline with `--demo`)
 4. **Recruiter/Client?** → See pinned repos below + [`cloud-security-optimization`](./cloud-security-optimization) for consulting examples
 
 > 💡 **Pro Tip**: Press `t` on any GitHub repo page to fuzzy-search files instantly.
@@ -57,6 +57,7 @@
 ### 🛡️ Blue Team / Incident Response
 | Project | Description | Status |
 |---------|-------------|--------|
+| [`soc-toolkit`](https://github.com/as70023333/soc-toolkit) | 🆕 Five SOC tools for Sentinel, Defender & Entra ID: 38 KQL hunts by ATT&CK tactic, Entra ID hygiene audit, bulk IOC enrichment, Defender device-health report, secrets pre-commit hook | ✅ Public |
 | [`incident-response-playbooks`](./incident-response-playbooks) | Practical IR playbooks + memory analysis scripts | ✅ Public |
 | [`threat-modeling-examples`](./threat-modeling-examples) | Real-world STRIDE/PASTA threat models | ✅ Public |
 | [`insider-threat-toolkit`](./insider-threat-toolkit) | Behavioral analytics and detection patterns | ✅ Public |
