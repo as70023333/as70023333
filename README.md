@@ -67,11 +67,11 @@
 | Project | Description | Status |
 |---------|-------------|--------|
 | [`certification_prep`]([./certification) | CCSP study guide (ADHD/Dyslexia friendly) | ✅ Public |
-[![Last Updated](https://img.shields.io/github/last-commit/as70023333/as70023333?label=Updated&logo=github)](https://github.com/as70023333/as70023333/commits/main)
 | [`certification_prep`] | Azure Security Engineer study guide (ADHD/Dyslexia friendly) | 🚧TBD🚧 |
 | [`certification_prep`] | AWS Security Engineer study guide (ADHD/Dyslexia friendly) | 🚧TBD🚧 |
-| [`certification_prep`] | DevOps Certificate (Techworld with Nana) Notes (ADHD/Dyslexia friendly) | 🚧TBD🚧 |
-| [`certification_prep`] | DevSecOps Certificate (Techworld with Nana) Notes (ADHD/Dyslexia friendly) | 🚧TBD🚧 |
+| [`Notes`] | DevOps Certificate (Techworld with Nana) Notes (ADHD/Dyslexia friendly) | 🚧TBD🚧 |
+| [`Notes`] | DevSecOps Certificate (Techworld with Nana) Notes (ADHD/Dyslexia friendly) | 🚧TBD🚧 |
+[![Last Updated](https://img.shields.io/github/last-commit/as70023333/as70023333?label=Updated&logo=github)](https://github.com/as70023333/as70023333/commits/main)
 ---
 
 ## 🛠️ Tech Stack Highlights
