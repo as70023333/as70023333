@@ -30,7 +30,7 @@
 |---------|-------------|--------|
 | [`cloud-security-optimization`](./cloud-security-optimization) | Reduce bloated security stacks; AWS/Azure/GCP optimization | ✅ Public |
 | [`cloud-security-checks`](./cloud-security-checks) | Automated misconfiguration scanners for AWS & GCP | ✅ Public |
-| [`SOC-Toolkit`](https://github.com/as70023333/soc-toolkit/blob/main/README.md) | Automated misconfiguration scanners for AWS & GCP | ✅ Public |
+| [`SOC-Toolkit`](https://github.com/as70023333/soc-toolkit/blob/main/README.md) | Small, sharp tools for a Microsoft security operations center | ✅ Public |
 https://github.com/as70023333/soc-toolkit/blob/main/README.md
 | `SentinelWork` 🔒 | Azure Sentinel workbooks & detection rules | 🔒 Private |
 
