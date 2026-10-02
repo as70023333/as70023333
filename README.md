@@ -36,9 +36,9 @@
 ### 🤖 AI & ML Security Operations
 | Project | Description | Status |
 |---------|-------------|--------|
-| [`ai-security-operations-copilot`](./ai-security-operations-copilot) | LLM security, prompt injection defense, SOC automation | ✅ Public |
-| [`adversarial-document-attack`](./adversarial-document-attack) | Research on document-based adversarial ML attacks | ✅ Public |
-| `deepfake-detection`  | xAI Grok Vision integration for deepfake analysis |  Private |
+| [`ai-security-operations-copilot`] | LLM security, prompt injection defense, SOC automation | 🚧TBD🚧 |
+| [`adversarial-document-attack`] | Research on document-based adversarial ML attacks | 🚧TBD🚧 |
+| `deepfake-detection`  | xAI Grok Vision integration for deepfake analysis | 🔐 Private |
 
 ### 🤖 AI & ML Agents/Skills/Games
 | Project | Description | Status |
@@ -52,22 +52,26 @@
 | [`devsecops-micro-project`](https://github.com/as70023333/certification_prep/wiki/The-20%E2%80%90Minute-DevSecOps-Micro%E2%80%90Project:-Building-a-GitHub-Security-Scanner) | DevSecOps Micro Project Build a Scanner | ✅ Public |
 | [`security-automation-lab`](https://github.com/as70023333/security-automation-lab#%EF%B8%8F-modern-security-automation-lab) | Wazuh SIEM + Shuffle SOAR lab on DigitalOcean (Ubuntu): detection-to-response pipeline, health commands and roadmap. In progress | ✅ Public |
 | [`vulnerability-remediation-automation`](https://github.com/as70023333/vulnerability-remediation-automation) | 🆕 `vulnrem`: turns a vulnerability scan (Microsoft Defender or any scanner's CSV) into a short plan. Priorities from CISA's exploited list and EPSS, an owner and deadline per action, ticket drafts, progress between runs. Read-only; runs offline with `--demo` | ✅ Public |
-| [`security-automation-pipeline`](./security-automation-pipeline) | CI/CD security gates: SAST, SCA, secret scanning | ✅ Public |
-| [`devsecops-portfolio`](./devsecops-portfolio) | DevSecOps patterns and pipeline templates | ✅ Public |
+| [`security-automation-pipeline`](./security-automation-pipeline) | CI/CD security gates: SAST, SCA, secret scanning | 🔐  Private |
+| [`devsecops-portfolio`] | DevSecOps: App Vuln Scanning, Vulnerability Management & Remediation, Image Scanning, AWS Cloud Security & Access Mgmt | 🔐 Private |
 
 ### 🛡️ Blue Team / Incident Response
 | Project | Description | Status |
 |---------|-------------|--------|
 | [`soc-toolkit`](https://github.com/as70023333/soc-toolkit) | 🆕 Five SOC tools for Sentinel, Defender & Entra ID: 38 KQL hunts by ATT&CK tactic, Entra ID hygiene audit, bulk IOC enrichment, Defender device-health report, secrets pre-commit hook | ✅ Public |
-| [`incident-response-playbooks`](./incident-response-playbooks) | Practical IR playbooks + memory analysis scripts | ✅ Public |
-| [`threat-modeling-examples`](./threat-modeling-examples) | Real-world STRIDE/PASTA threat models | ✅ Public |
-| [`insider-threat-toolkit`](./insider-threat-toolkit) | Behavioral analytics and detection patterns | ✅ Public |
+| [`incident-response-playbooks`](./incident-response-playbooks) | Practical IR playbooks + memory analysis scripts | 🔐 Private |
+| [`threat-modeling-examples`](./threat-modeling-examples) | Real-world STRIDE/PASTA threat models |🔐 Private |
+| [`insider-threat-toolkit`](./insider-threat-toolkit) | Behavioral analytics and detection patterns | 🔐 Private  |
 
 ### 📚 Learning & Certification Prep
 | Project | Description | Status |
 |---------|-------------|--------|
-| [`certification_prep`]([./certification) | CCSP/Azure study guides (ADHD/Dyslexia friendly) | ✅ Public |
+| [`certification_prep`]([./certification) | CCSP study guide (ADHD/Dyslexia friendly) | ✅ Public |
 [![Last Updated](https://img.shields.io/github/last-commit/as70023333/as70023333?label=Updated&logo=github)](https://github.com/as70023333/as70023333/commits/main)
+| [`certification_prep`] | Azure Security Engineer study guide (ADHD/Dyslexia friendly) | 🚧TBD🚧 |
+| [`certification_prep`] | AWS Security Engineer study guide (ADHD/Dyslexia friendly) | 🚧TBD🚧 |
+| [`certification_prep`] | DevOps Certificate (Techworld with Nana) Notes (ADHD/Dyslexia friendly) | 🚧TBD🚧 |
+| [`certification_prep`] | DevSecOps Certificate (Techworld with Nana) Notes (ADHD/Dyslexia friendly) | 🚧TBD🚧 |
 ---
 
 ## 🛠️ Tech Stack Highlights
