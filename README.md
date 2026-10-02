@@ -5,9 +5,9 @@
 > 🧠 **Learning**: ADHD/Dyslexia-friendly CCSP & Azure study guides below  
 
 [![CCSP Study](https://img.shields.io/badge/📚-CCSP%20Prep-blue?style=for-the-badge)](https://github.com/as70023333/certification_prep/wiki/CCSP)
-[![Cloud Security](https://img.shields.io/badge/☁️-Cloud%20Security-orange?style=for-the-badge)](./cloud-security-optimization)
+[![Cloud Security](https://img.shields.io/badge/☁️-Cloud%20Security-orange?style=for-the-badge)](https://github.com/as70023333/cloud-security-optimization)
 [![AI Security](https://img.shields.io/badge/🤖-AI%20Security-purple?style=for-the-badge)](./ai-security-operations-copilot)
-[![Automation](https://img.shields.io/badge/🔄-Security%20Automation-green?style=for-the-badge)](./security-automation-lab)
+[![Automation](https://img.shields.io/badge/🔄-Security%20Automation-green?style=for-the-badge)](https://github.com/as70023333/security-automation-lab)
 [![Accessibility](https://img.shields.io/badge/♿-ADHD%2FDyslexia%20Friendly-brightgreen?style=for-the-badge)](#-accessibility-commitment)
 
 ---
@@ -16,8 +16,8 @@
 
 1. **New to my work?** → Browse [`awesome-security-engineer`](https://github.com/as70023333/awesome-security-engineer) for the full portfolio map
 2. **Studying for a certification?** → Jump to [`certification_prep`](https://github.com/as70023333/certification_prep/wiki/Home-%E2%80%90-%F0%9F%8E%93-certification_prep) for ADHD-friendly guides
-3. **Looking for automation code?** → Explore [`security-automation-lab`](./security-automation-lab) and the new [`soc-toolkit`](https://github.com/as70023333/soc-toolkit) (run any tool offline with `--demo`)
-4. **Recruiter/Client?** → See pinned repos below + [`cloud-security-optimization`](./cloud-security-optimization) for consulting examples
+3. **Looking for automation code?** → Explore [`security-automation-lab`](https://github.com/as70023333/security-automation-lab) and the new [`soc-toolkit`](https://github.com/as70023333/soc-toolkit) (run any tool offline with `--demo`)
+4. **Recruiter/Client?** → See pinned repos below + [`cloud-security-optimization`](https://github.com/as70023333/cloud-security-optimization) for consulting examples
 
 > 💡 **Pro Tip**: Press `t` on any GitHub repo page to fuzzy-search files instantly.
 
@@ -28,8 +28,8 @@
 ### ☁️ Cloud Security Platform Engineering
 | Project | Description | Status |
 |---------|-------------|--------|
-| [`cloud-security-optimization`](./cloud-security-optimization) | Reduce bloated security stacks; AWS/Azure/GCP optimization | ✅ Public |
-| [`cloud-security-checks`](./cloud-security-checks) | Automated misconfiguration scanners for AWS & GCP | ✅ Public |
+| [`cloud-security-optimization`](https://github.com/as70023333/cloud-security-optimization) | 🆕 `secopt`: find what a security stack costs, what is unused and what overlaps. Microsoft Sentinel cost review (cheapest pricing plan, tables no detection reads), unused Microsoft 365 licences, security tool overlap and gaps. Read-only; runs offline with `--demo` | ✅ Public |
+| [`cloud-security-checks`](https://github.com/as70023333/cloud-security-checks) | 🆕 Read-only misconfiguration scanners for AWS, Azure & Google Cloud: 54 checks, no SDKs, no dependencies; runs offline with `--demo` | ✅ Public |
 | [`soc-toolkit`](https://github.com/as70023333/soc-toolkit) | Small, sharp tools for a Microsoft security operations center | ✅ Public |
 | `SentinelWork` 🔒 | Azure Sentinel workbooks & detection rules | 🔒 Private |
 
@@ -51,7 +51,7 @@
 | Project | Description | Status |
 |---------|-------------|--------|
 | [`devsecops-micro-project`](https://github.com/as70023333/certification_prep/wiki/The-20%E2%80%90Minute-DevSecOps-Micro%E2%80%90Project:-Building-a-GitHub-Security-Scanner) | DevSecOps Micro Project Build a Scanner | ✅ Public |
-| [`security-automation-lab`](./security-automation-lab) | Terraform, Python, and SOAR playbooks for cloud | ✅ Public |
+| [`security-automation-lab`](https://github.com/as70023333/security-automation-lab) | Wazuh SIEM + Shuffle SOAR lab on DigitalOcean (Ubuntu): detection-to-response pipeline, health commands and roadmap. In progress | ✅ Public |
 | [`security-automation-pipeline`](./security-automation-pipeline) | CI/CD security gates: SAST, SCA, secret scanning | ✅ Public |
 | [`devsecops-portfolio`](./devsecops-portfolio) | DevSecOps patterns and pipeline templates | ✅ Public |
 
