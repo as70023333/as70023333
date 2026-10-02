@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Start Here (First-Time Visitors)
+##  Start Here (First-Time Visitors)
 
 1. **New to my work?** → Browse [`awesome-security-engineer`](https://github.com/as70023333/awesome-security-engineer) for the full portfolio map
 2. **Studying for a certification?** → Jump to [`certification_prep`](https://github.com/as70023333/certification_prep/wiki/Home-%E2%80%90-%F0%9F%8E%93-certification_prep) for ADHD-friendly guides
