@@ -25,6 +25,14 @@
 
 ## Browse by Focus Area
 
+### Counter-Surveillance & Defense Tech
+| Project | Description | Status |
+|---------|-------------|--------|
+| [`cloud-security-optimization`](https://github.com/as70023333/cloud-security-optimization#cloud-security-optimization#cloud-security-optimization#cloud-security-optimization) |  `secopt`: find what a security stack costs, what is unused and what overlaps. Microsoft Sentinel cost review (cheapest pricing plan, tables no detection reads), unused Microsoft 365 licences, security tool overlap and gaps. Read-only; runs offline with `--demo` | Public |
+| [`cloud-security-checks`](https://github.com/as70023333/cloud-security-checks#cloud-security-checks) |  Read-only misconfiguration scanners for AWS, Azure & Google Cloud: 54 checks, no SDKs, no dependencies; runs offline with `--demo` | ✅ Public |
+| [`soc-toolkit`](https://github.com/as70023333/soc-toolkit#soc-toolkit#soc-toolkit#soc-toolkit) | Small, sharp tools for a Microsoft security operations center | ✅ Public |
+| [`microsoft-sentinel`](https://github.com/as70023333/SentinelWork/tree/main/Microsoft_Sentinel#microsoft-sentinel)  | 🆕 28 detection rules and seven SOC workbooks for Microsoft Sentinel: identity sign-ins, privileged access, endpoint, email and phishing, Azure activity, data exfiltration and SOC operations. Each rule's alerts show in its workbook, every query is checked with Microsoft's KQL parser, and the rules deploy disabled so they can be reviewed first. Home of the Autonomous SOC Analyst |  🚧 In progress |
+
 ### ☁️ Cloud Security Platform Engineering
 | Project | Description | Status |
 |---------|-------------|--------|
