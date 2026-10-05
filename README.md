@@ -6,7 +6,7 @@
 
 > **Building open-source, local-first security automation to protect everyday people, underrepresented communities, and small businesses.**
 
-I am an **Indigenous**, **LGBTQ+** Security Engineer and DevSecOps practitioner. 
+I am an **Indigenous** Security Engineer and DevSecOps practitioner. 
 
 My mission is **countering mass surveillance**, algorithmic exploitation, and tech monopolies through **free open-source tools**, **local-first AI**, and **automated privacy controls**.
 
