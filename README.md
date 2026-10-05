@@ -25,6 +25,8 @@
 
 ## Browse by Focus Area
 
+### Civic Defense
+
 ### Counter-Surveillance & Defense Tech
 | Project | Description | Status |
 |---------|-------------|--------|
