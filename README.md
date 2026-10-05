@@ -76,10 +76,10 @@ My open-source research is sustained through **public interest grants**, **spons
 ## 📫 **Connect & Collaborate:** [Link to Portfolio / Substack / Contact]
 ## ♿ Accessibility Commitment ( why the emojes 
 ## All study materials and documentation follow neurodivergent-friendly practices:
-** ✅ Chunked content — Sections under 300 words, clear headings
-** ✅ Plain language first — Technical terms defined on first use
-** ✅ Visual anchors — Tables, emojis, and lists instead of walls of text
-** ✅ Screen-reader compatible — Semantic Markdown, alt-text for images
-** ✅ Focus-friendly — Minimal distractions, logical progression
-** ✅ Movement reminders — Study loops include break prompts
+* ✅ Chunked content — Sections under 300 words, clear headings
+* ✅ Plain language first — Technical terms defined on first use
+* ✅ Visual anchors — Tables, emojis, and lists instead of walls of text
+* ✅ Screen-reader compatible — Semantic Markdown, alt-text for images
+* ✅ Focus-friendly — Minimal distractions, logical progression
+* ✅ Movement reminders — Study loops include break prompts
 
