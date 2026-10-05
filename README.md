@@ -2,7 +2,7 @@
 
 > 🛡️ **Focus**: # Civic Defense & Security Engineering
 > 💼 **Consulting**: [Blackline Security Advisory](#) *(coming soon)*  
-> 🧠 **Learning**: ADHD/Dyslexia-friendly CCSP & Azure study guides below  
+> 🧠 **Learning**: ADHD/Dyslexia-friendly CCSP, AWS, Azure, SRE study guides below  
 
 > **Building open-source, local-first security automation to protect everyday people, underrepresented communities, and small businesses.**
 
