@@ -27,7 +27,12 @@ Quick links to my primary open-source reference architectures:
 * 🛡️ **[devsecops-pipeline-lab](./devsecops-pipeline-lab)**
   * **Focus:** Security automation inside modern CI/CD delivery pipelines.
   * **Key Tools:** GitHub Actions SAST gates (Semgrep), dependency checks, Checkov IaC linting, and OWASP ZAP scanners.
-
+ 
+*  **[Multi-Cloud Streaming Delivery & Resilience Platform](./multicloud-stream-delivery-lab)**
+  * **Focus:** AWS/GCP Multi-Cloud Footprint, Container Orchestration, CDN Observability, IaC & Serverless DBs
+  * **Key Tools:** GMulti-Cloud (AWS + GCP):  AWS ECS, CloudFront, Aurora Serverless alongside GCP Cloud Functions.
+                   IaC & Frameworks: Built with Terraform, Node.js, GraphQL, SQL, and PostgreSQL/MongoDB.
+                   CDN Observability: Showcases caching, proxy routing, latency optimization, and monitoring.
 ---
 
 ## 🚀 Need Plug-and-Play Production Bundles?
