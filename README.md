@@ -28,7 +28,7 @@ Quick links to my primary open-source reference architectures:
   * **Focus:** Security automation inside modern CI/CD delivery pipelines.
   * **Key Tools:** GitHub Actions SAST gates (Semgrep), dependency checks, Checkov IaC linting, and OWASP ZAP scanners.
  
-*  **[SRE Multi-Cloud Streaming Delivery & Resilience Platform](./multicloud-streaming-iac)**
+*  **[SRE Multi-Cloud Streaming Delivery & Resilience Platform](https://github.com/as70023333/multicloud-streaming-iac/blob/main/README.md)**
   * **Focus:** AWS/GCP Multi-Cloud Footprint, Container Orchestration, CDN Observability, IaC & Serverless DBs
   * **Key Tools:** GMulti-Cloud (AWS + GCP):  AWS ECS, CloudFront, Aurora Serverless alongside GCP Cloud Functions.
                    IaC & Frameworks: Built with Terraform, Node.js, GraphQL, SQL, and PostgreSQL/MongoDB.
