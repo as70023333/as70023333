@@ -16,19 +16,19 @@ My mission is **countering mass surveillance**, algorithmic exploitation, and te
 
 Quick links to my primary open-source reference architectures:
 
-* ⚙️ **[security-automation-lab](./security-automation-lab)**
+* ⚙️ **[security-automation-lab]([./as70023333/security-automation-lab#%EF%B8%8F-modern-security-automation-lab)**
   * **Focus:** Real-time threat detection, incident triage, and automated containment.
   * **Key Tools:** GitHub audit log detectors, Okta session revokers, and local media privacy scrubbers.
 
-* 🛠️ **[devops-infrastructure-lab](./devops-infrastructure-lab)**
+* 🛠️ **[devops-infrastructure-lab](./as70023333/devops-infrastructure-lab)**
   * **Focus:** Cloud Infrastructure-as-Code (IaC) and local-first AI setups.
   * **Key Tools:** Terraform blueprints, containerized local LLM proxies (Ollama/Llama) with PII stripping, and lightweight monitoring.
 
-* 🛡️ **[devsecops-pipeline-lab](./devsecops-pipeline-lab)**
+* 🛡️ **[devsecops-pipeline-lab](./as70023333/devsecops-pipeline-lab)**
   * **Focus:** Security automation inside modern CI/CD delivery pipelines.
   * **Key Tools:** GitHub Actions SAST gates (Semgrep), dependency checks, Checkov IaC linting, and OWASP ZAP scanners.
  
-*  **[SRE Multi-Cloud Streaming Delivery & Resilience Platform](https://github.com/as70023333/multicloud-streaming-iac/blob/main/README.md)**
+*  **[SRE Multi-Cloud Streaming Delivery & Resilience Platform](./as70023333/multicloud-streaming-iac/blob/main/README.md)**
   * **Focus:** AWS/GCP Multi-Cloud Footprint, Container Orchestration, CDN Observability, IaC & Serverless DBs
   * **Key Tools:** GMulti-Cloud (AWS + GCP):  AWS ECS, CloudFront, Aurora Serverless alongside GCP Cloud Functions.
                    IaC & Frameworks: Built with Terraform, Node.js, GraphQL, SQL, and PostgreSQL/MongoDB.
