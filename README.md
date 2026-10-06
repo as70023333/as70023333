@@ -16,7 +16,7 @@ My mission is **countering mass surveillance**, algorithmic exploitation, and te
 
 Quick links to my primary open-source reference architectures:
 
-* ⚙️ **[security-automation-lab]([./as70023333/security-automation-lab#%EF%B8%8F-modern-security-automation-lab)**
+* ⚙️ **[security-automation-lab](https://github.com/as70023333/security-automation-lab#%EF%B8%8F-modern-security-automation-lab)**
   * **Focus:** Real-time threat detection, incident triage, and automated containment.
   * **Key Tools:** GitHub audit log detectors, Okta session revokers, and local media privacy scrubbers.
 
